@@ -23,4 +23,4 @@ This assignment is broken down into the following tasks:
 -Calculate correlation and regression.
 
 # Observations
-Obsevations can be find at the end of the challenge Notebook
+Obsevations can be found at the end of the challenge Notebook
